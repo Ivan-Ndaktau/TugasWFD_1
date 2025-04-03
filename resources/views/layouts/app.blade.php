@@ -10,7 +10,7 @@
     <!-- Navbar -->
     <nav class="bg-indigo-900 text-white shadow-lg">
         <div class="container mx-auto px-4 py-3 flex justify-between items-center">
-            <a href="{{ route('promotions.index') }}" class="text-2xl font-bold">Serba Serbi Dunia Game</a>
+            <a href="{{ route('promotions.index') }}" class="text-2xl font-bold">Website Promosi Game</a>
             <a href="{{ url('promotions/create') }}"
                class="px-4 py-2 bg-white text-blue-600 rounded-md hover:bg-gray-100 transition">
                 Tambah Promosi

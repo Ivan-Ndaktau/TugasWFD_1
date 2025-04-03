@@ -15,18 +15,18 @@ class resource_seeder extends Seeder
     {
         $promotions = [
             [
-                'title' => 'Apel Fuji',
-                'description' => 'Apel jepang yang enak dan manis.',
+                'title' => 'Genshin Impact',
+                'description' => 'Game Open World RPG yang menhadirkan tema petualangan disertai dengan berbagai karakter yang menarik.',
                 'image' => '',
             ],
             [
-                'title' => 'Pisang Raja',
-                'description' => 'Pisang legendaris yang manis.',
+                'title' => 'Honkai:Star Rail',
+                'description' => 'Game Turn Based RPG yang disertai dengan konsep open world yang semakin membuat game lebih menarik.',
                 'image' => '',
             ],
             [
-                'title' => 'Lemon Kuning',
-                'description' => 'Lemon dengan rasa asam.',
+                'title' => 'Mobile Legends:Bang Bang',
+                'description' => 'Game MOBA Android yang menyajikan pertarungan fenomenal yang mempertemukan 10 pemain.',
                 'image' => '',
             ],
         ];
