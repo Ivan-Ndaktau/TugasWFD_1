@@ -2,7 +2,7 @@
 
 @section('title', 'Daftar Promosi')
 @section('content')
-    <h1 class="text-3xl font-bold text-gray-800 mb-8">Daftar Promosi</h1>
+    <h1 class="text-3xl font-bold text-white mb-8">Daftar Promosi</h1>
 
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
         @foreach($promotions as $promotion)
